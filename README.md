@@ -6,27 +6,24 @@
 
 ## Description
 
-_This is a webpage about me and my favorite things._
+_This is a webpage about me, my favorite things, and my favourite places to visit._
 
 ## Setup/Installation Requirements
 
-* _Use my-first-things.html to start_
-* _Go to the links inside my-first-things.html_
+* _Double click to my-first-webpage.html to start_
+* _Go through the info and the links on that webpage_
 
 
-_{Try to know me better. You just need a browser._
-
-//## Known Bugs
-
-//_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Try to know me better. You just need a browser._
 
 ## Support and contact details
 
-_If you have any questions, please, contact me natalindria@gmail.com_
+_If you have any questions, please, send me email: natalindria@gmail.com_
 
 ## Technologies Used
 
 _HTML_
+_CSS_
 
 ### License
 
