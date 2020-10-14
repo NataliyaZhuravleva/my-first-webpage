@@ -15,8 +15,7 @@ h3 {
   font-family: cursive;
   color: coral;
   font-size: 30px;
-  text-decoration: underline;
-  
+  text-decoration: underline;  
 }
 
 p {
@@ -24,7 +23,6 @@ p {
   color:darkslategrey;
   font-size: 20px;
   line-height: 20px;
-
 }
 
 li {
